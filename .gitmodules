@@ -1,0 +1,6 @@
+[submodule "carAPI"]
+	path = carAPI
+	url = git@github.com:ios2002/carAPI.git
+[submodule "carMVC"]
+	path = carMVC
+	url = git@github.com:ios2002/carMVC.git
